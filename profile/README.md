@@ -37,7 +37,7 @@ Quantum developers juggle fragmented tools, vendor lock‑in, and brittle glue c
 
 ## Roadmap (high level)
 
-- **Language 1.0.0**: stable syntax, OpenQASM codegen, built‑in ideal simulator
+- **Language v1.0.0**: stable syntax, OpenQASM codegen, built‑in ideal simulator
 - **Studio MVP**: builder + visualiser, OpenQASM export, ideal backend
 - **Noisy + QPU**: licensed noisy simulator, provider integrations via QPU service
 - **Education & Docs**: tutorials, course kits, and teaching resources
