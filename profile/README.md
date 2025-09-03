@@ -35,15 +35,6 @@ Quantum developers juggle fragmented tools, vendor lock‑in, and brittle glue c
 
 > Studio is in active development. Follow along for early access and roadmap updates.
 
-## Roadmap (high level)
-
-- **Language v1.0.0**: stable syntax, OpenQASM codegen, built‑in ideal simulator
-- **Studio MVP**: builder + visualiser, OpenQASM export, ideal backend
-- **Noisy + QPU**: licensed noisy simulator, provider integrations via QPU service
-- **Education & Docs**: tutorials, course kits, and teaching resources
-
-> Detailed milestones live in repo issues and project boards.
-
 ## Contributing
 
 The Bloch programming language is fully open-source. We 💜 contributors, from issues and docs to core features.
